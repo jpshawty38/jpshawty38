@@ -40,8 +40,9 @@
 | Cursos | Certificados |
 | ------- | ------------|
           
-![João Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=jpshawty38&show_icons=true&theme=radical) <br>
-![João Oliveira GitHub Icons](https://github-readme-stats.vercel.app/api?username=jpshawty38&show_icons=true)
+![João Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=jpshawty38&show_icons=true&theme=dracula) <br>
+![João Oliveira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jpshawty38&layout=compact&langs_count=7&theme=dracula)
+
           
 
           
