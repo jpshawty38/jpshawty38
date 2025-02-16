@@ -1,16 +1,45 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Universo!
 
-<!--
-**jpshawty38/jpshawty38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Gig do Macaquinho no Computador](https://media.giphy.com/media/VjAB0fOmK15Ze/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌎 Olá, Me Chamo João Oliveira. <br>
+
+💬 Trabalho Como Jovem Aprendiz Administrativo, Formado no Curso Técnico de Informática e Estudante de Desenvolvimento de Sistemas. <br>
+
+📫 [Acesse o Meu Linkedin](https://www.linkedin.com/in/jo%C3%A3o-oliveira-b8200b29b/)
+
+----
+
+### Minhas Técnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"width="100px">
+
+
+          
+
+
+----
+### Técnologias em Estudo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="90px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" width="90px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="100px">
+          
+----
+| Cursos | Certificados |
+| ------- | ------------|
+          
+![João Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=jpshawty38&show_icons=true&theme=radical) <br>
+![João Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=jpshawty38&show_icons=true)
+          
+
+          
+          
+          
